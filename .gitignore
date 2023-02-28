@@ -1,0 +1,4 @@
+node_modules
+.idea
+weather-menu.iml
+package-lock.json
