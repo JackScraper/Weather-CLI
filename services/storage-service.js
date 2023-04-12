@@ -25,7 +25,7 @@ const getKeyValue = async (key) => {
         const data = JSON.parse(file);
         return data[key];
     }
-    return undefined;
+    return 'Select City!';
 };
 
 const isExist = async (path) => {
