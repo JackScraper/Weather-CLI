@@ -1,6 +1,6 @@
 {
   "name": "weather-menu",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "weather.js",
   "type": "module",
   "bin": {
