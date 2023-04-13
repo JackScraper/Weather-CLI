@@ -17,4 +17,4 @@ const randomApiAnswer2 = await axios.get('https://puzzle.mead.io/puzzle')
 console.log(randomApiAnswer2.data)
 
 const randomApiAnswer3 = await axios.get('https://puzzle.mead.io/puzzle')
-                                                                                                                                                                                                                                                                                            hv                                                                                                                                                                 p                                                                                            a                                                                                                                                                   c fg. m;,.m,/"
+console.log(randomApiAnswer3.data)
